@@ -1,6 +1,6 @@
 
-# Created by https://www.gitignore.io/api/emacs,python
-# Edit at https://www.gitignore.io/?templates=emacs,python
+# Created by https://www.gitignore.io/api/emacs,python,scheme
+# Edit at https://www.gitignore.io/?templates=emacs,python,scheme
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
@@ -157,4 +157,13 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# End of https://www.gitignore.io/api/emacs,python
+### Scheme ###
+*.ss~
+*.ss#*
+.#*.ss
+
+*.scm~
+*.scm#*
+.#*.scm
+
+# End of https://www.gitignore.io/api/emacs,python,scheme
