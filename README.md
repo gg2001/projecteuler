@@ -1,4 +1,4 @@
-# Project Euler
+# [Project Euler](https://projecteuler.net/)
 
 My Project Euler solutions in Python and Scheme.
 
