@@ -1,4 +1,4 @@
-### Begin global .gitignore (https://github.com/github/gitignore)
+### Begin Global.gitignore (https://github.com/github/gitignore)
 ### https://gist.github.com/gg2001/6a838a9bbae3138e0a2f7c1712058708
 
 ## macOS.gitignore
@@ -192,7 +192,7 @@ bh_unicode_properties.cache
 # https://packagecontrol.io/packages/sublime-github
 GitHub.sublime-settings
 
-### End global .gitignore
+### End Global.gitignore
 
 ## Python.gitignore
 
